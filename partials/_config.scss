@@ -1,0 +1,27 @@
+// font
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+
+
+
+// variables
+$primaryColor: #480ca4;
+$primaryColorVariant: #4cc9f0;
+$secondaryColor: #f72585;
+$whiteColor: #ffffff;
+$lightColor: rgba($whiteColor, 0.7);
+$blackColor: #0c031b;
+$darkColor: rgba($blackColor, 0.7);
+$successColor: #54eb72;
+$containerLG: 82%;
+$containerMD: 90%;
+
+// styling
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
